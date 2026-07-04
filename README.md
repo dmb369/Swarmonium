@@ -10,12 +10,12 @@ No sample library. No MIDI rig. Just one `.wav` file, a bit of math, and your QW
 
 ## ✨ Features
 
-- 🎼 **Two instruments, one engine** — switch instantly between **Harmonium** and **Guitar** with `TAB`
-- 🔁 **Real-time pitch shifting** — a single base sample (`C4` for harmonium, `A4` for guitar) is resampled on the fly via NumPy interpolation to produce every note in the scale
-- 🎹 **Two-row keyboard layout** — white keys and black keys mapped like a mini piano
-- 🔊 **Live volume control** — hold `↑` / `↓` to fade in or out mid-performance
-- 🖥️ **Clean, animated UI** — gradient backdrop, live volume bar, and real-time display of pressed keys and sounding notes
-- 🪶 **Lightweight** — built entirely on `pygame` + `numpy`, no heavyweight audio engine required
+- **Two instruments, one engine** — switch instantly between **Harmonium** and **Guitar** with `TAB`
+- **Real-time pitch shifting** — a single base sample (`C4` for harmonium, `A4` for guitar) is resampled on the fly via NumPy interpolation to produce every note in the scale
+- **Two-row keyboard layout** — white keys and black keys mapped like a mini piano
+- **Live volume control** — hold `↑` / `↓` to fade in or out mid-performance
+- **Clean, animated UI** — gradient backdrop, live volume bar, and real-time display of pressed keys and sounding notes
+- **Lightweight** — built entirely on `pygame` + `numpy`, no heavyweight audio engine required
 
 ---
 
